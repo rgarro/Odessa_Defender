@@ -1,0 +1,1 @@
+﻿interface com.avVenta.hotspot.IHotspotAnimation{		public function showRollOver();	public function hideRollOver();		public function showContent();	public function hideContent();		}

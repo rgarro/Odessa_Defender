@@ -1,0 +1,16 @@
+﻿<flash_project name="eventtank" version="1">
+    <project_file path="./eventtank.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path="./main.as" filetype="as" />
+    <project_file path="./dyntank.as" filetype="as" />
+    <project_file path="./dynturret.as" filetype="as" />
+    <project_file path="./eventtank1.as" filetype="as" />
+    <project_file path="./hellfiremisile.as" filetype="as" />
+    <project_file path="./Particle.as" filetype="as" />
+    <project_file path="./mi24.as" filetype="as" />
+    <project_file path="./enemyfleet.as" filetype="as" />
+    <project_file path="./MissileSound.as" filetype="as" />
+    <project_file path="./sonidoExplosion.as" filetype="as" />
+    <project_file path="./tweenEffects.as" filetype="as" />
+    <project_file path="./ak47shotsdyn.as" filetype="as" />
+    <project_file path="./replaybotdyn.as" filetype="as" />
+</flash_project>
