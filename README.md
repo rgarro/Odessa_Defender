@@ -1,6 +1,8 @@
 # Odessa_Defender
 Одесса Защитник - A T72 Game written in ActionScript2 . 
-Its an arcSin ArcTan fractal behavior as a Tank Helicopter battle coming from the upwind,
+
+Its an arcSin ArcTan fractal behavior as a Tank Helicopter battle coming from the upwind .
+
 Probably this. is a slow production to create a kitesurf spot in Puntarenas
 
 The Game can be downloaded and easily rewrited to Javascript , Creatjs or C#
