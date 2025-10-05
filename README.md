@@ -14,7 +14,9 @@ Al-Tikrit: https://soundcloud.com/dorje-trolo/al-tikrit-highway-takeone
 
 Looking for a Gig to afford SlingShot Kitesurfing gear !!
 
-Buy Me a Beer, Starbucks Expresso or send a cheese burguer ... [Paypal](https://www.paypal.me/gospelOfLuke/25).
+Did you like it? send me funds,help me to pay my MIT major ... [Paypal](https://www.paypal.me/gospelOfLuke/25).
+
+Spetsnaz dont shoot!! the game is about selling a land rover defender in Oddesa Texas
 
 [![Maneje Despacio](https://raw.githubusercontent.com/rgarro/Odessa_Defender/master/screenshot.png)]
 
